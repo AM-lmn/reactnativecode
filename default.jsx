@@ -617,7 +617,7 @@ const styles = StyleSheet.create({
     
     recordsContainer: {
         backgroundColor: 'white',
-        borderColor: 'black',
+        borderColor: 'red',
         borderWidth: 2,
         height: deviceHeight/2.3,
         width: deviceWidth/1.1,
